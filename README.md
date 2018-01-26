@@ -1,5 +1,7 @@
 # 前言
 
+> 本开源书 forked from [LeetCode 题解](https://github.com/siddontang/leetcode-solution)，作者为 [siddontang](https://github.com/siddontang)，欢迎大家 star 原作者的 [repo](https://github.com/siddontang/leetcode-solution)，以便获得最新更新，谢谢！
+
 首先声明，我和张晓翀都不是算法牛人，确切的说应该是算法的门外汉，小白一个。所以我们为了撬开算法的大门，各自刷完了一遍LeetCode的题目，这其中碰到了很多困难，当然也少不了用了Google以及参考了别人的代码。
 
 做完一遍下来，陡然发现，很多题目还是忘记了，再次碰到又不知道如何下手，其实这就是典型的没有理解，掌握透。所以我们决定，应该好好的将自己做题的思路记录下来，一个知识点，自己能弄懂，写出来让大家都明白，同时能做到举一反三，触类旁通，那么在一定程度上面才算是真的掌握了。
